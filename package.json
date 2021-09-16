@@ -1,0 +1,14 @@
+{
+  "name": "opensource.com",
+  "version": "0.0.1",
+  "description": "Opensource.com with PatternFly Elements",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
